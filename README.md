@@ -71,10 +71,10 @@
 
 <div align="center">
 
+[![Gmail](https://img.shields.io/badge/Gmail-nitindhram1234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitindhram1234@gmail.com)
+[![School Email](https://img.shields.io/badge/School_Email-18645%40armypublicschoolagra.com-C71610?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:18645@armypublicschoolagra.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=googlechrome)](https://github.com/nitinkumar079/Portfolio-website)
 [![GitHub](https://img.shields.io/badge/GitHub-nitinkumar079-181717?style=for-the-badge&logo=github)](https://github.com/nitinkumar079)
-
-<!-- Add your LinkedIn / email badges here -->
 
 </div>
 
