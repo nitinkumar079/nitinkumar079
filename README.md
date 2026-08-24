@@ -2,16 +2,18 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Science+Student+%40+LPU;Daily+DSA+Practitioner+%7C+C%2B%2B+%2B+Python;Building+with+AI+%26+Full-Stack;Open+to+Internships+%26+Collaborations)](https://github.com/nitinkumar079)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Full-Stack+Developer;CSE+Undergrad+%40+LPU;Turning+Ideas+Into+Working+Products;Daily+DSA+%7C+Open+to+SDE+Internships)](https://github.com/nitinkumar079)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nitinkumar079&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
 ## About Me
 
-- Currently pursuing B.Tech in CSE at Lovely Professional University
+- AI & full-stack developer, B.Tech CSE at Lovely Professional University
+- Turning ideas into working products - an AI mock-interview platform, an end-to-end encrypted chat app, and AI-powered learning tools
 - Practicing Data Structures & Algorithms daily ([dsa-solution](https://github.com/nitinkumar079/dsa-solution))
-- Interested in AI/ML, full-stack development, and building useful products
-- Open to internships, collaborations, and hackathons
+- Open to SDE internships, collaborations, and hackathons
 
 ## Tech Stack
 
@@ -30,11 +32,11 @@
 
 | Project | Description |
 |---------|-------------|
+| [INTERVIEWER](https://github.com/nitinkumar079/INTERVIEWER) | AI-powered mock interview platform with answer scoring, webcam proctoring and college leaderboard |
+| [Personal Chatbot](https://github.com/nitinkumar079/personal-chatbot) | End-to-end encrypted private chat PWA for two, with WebRTC audio/video calls |
 | [AI-Powered Personalized Learning Path Generator](https://github.com/nitinkumar079/AI-Powered-Personalized-Learning-Path-Generator) | Hackathon project that generates personalized learning paths using AI |
-| [INTERVIEWER](https://github.com/nitinkumar079/INTERVIEWER) | AI-based mock interview practice tool |
-| [Personal Chatbot](https://github.com/nitinkumar079/Mypersonalkchatbot) | Custom personal chatbot assistant |
-| [Portfolio Website](https://github.com/nitinkumar079/Portfolio-website) | My personal portfolio website |
 | [DSA Solutions](https://github.com/nitinkumar079/dsa-solution) | LeetCode problems solved in C++ and Python with complexity analysis |
+| [Portfolio Website](https://github.com/nitinkumar079/Portfolio-website) | My personal portfolio website |
 
 ## GitHub Stats
 
@@ -57,6 +59,8 @@
 [![Streak Stats](https://streak-stats.demolab.com?user=nitinkumar079&theme=tokyonight&hide_border=true&locale=en)](https://git.io/streak-stats)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nitinkumar079&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitinkumar079&theme=tokyonight&hide_border=true&bg_color=1A1B27&area=true)
 </div>
 
 ## Contribution Graph
