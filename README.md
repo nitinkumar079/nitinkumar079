@@ -90,6 +90,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-nitindhram1234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitindhram1234@gmail.com)
 [![School Email](https://img.shields.io/badge/School_Email-18645%40armypublicschoolagra.com-C71610?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:18645@armypublicschoolagra.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=googlechrome)](https://github.com/nitinkumar079/Portfolio-website)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-d63131?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/nitinkumar079/nitinkumar079/blob/main/RESUME.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-nitinkumar079-181717?style=for-the-badge&logo=github)](https://github.com/nitinkumar079)
 
 </div>
