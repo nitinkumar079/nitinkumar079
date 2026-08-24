@@ -38,6 +38,18 @@
 | [DSA Solutions](https://github.com/nitinkumar079/dsa-solution) | LeetCode problems solved in C++ and Python with complexity analysis |
 | [Portfolio Website](https://github.com/nitinkumar079/Portfolio-website) | My personal portfolio website |
 
+## 🏆 Achievements & Certifications
+
+| Award / Certification | Issuer | Credential |
+|-----------------------|--------|------------|
+| 🥇 **INNOVATOR Award** — AI Hackathon @ Build Storm 2025 | Play2Unite × Qubicsquare Technologies | `QS-HT-20250920-NK-8266` |
+| 🤖 [Google AI Professional Certificate](https://coursera.org/verify/professional-cert/MCP28OXFDB0N) · 7 courses | Google × Coursera | [Verify](https://coursera.org/verify/professional-cert/MCP28OXFDB0N) |
+| 🔐 [Google Cybersecurity Certificate](https://coursera.org/verify/professional-cert/TKR1PXW5XQBK) · 9 courses | Google × Coursera | [Verify](https://coursera.org/verify/professional-cert/TKR1PXW5XQBK) |
+| 📊 [Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/40SXK0GU3RGH) · 9 courses | Google × Coursera | [Verify](https://coursera.org/verify/professional-cert/40SXK0GU3RGH) |
+| 🧠 Machine Learning with Python | IBM × Coursera | [Verify](https://coursera.org/verify/8JDKOIP0ARCE) |
+| 📈 What is Data Science? | IBM × Coursera | [Verify](https://coursera.org/verify/2IOLN1YJOW04) |
+| ⚙️ Foundations of AI and Machine Learning | Microsoft × Coursera | [Verify](https://coursera.org/verify/A0F6PGLN5TCI) |
+
 ## GitHub Stats
 
 <div align="center">
